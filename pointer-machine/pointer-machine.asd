@@ -1,7 +1,7 @@
 (in-package :asdf-user)
 
 (asdf:defsystem :pointer-machine
-  :description "Implementations of data structures mentioned in MIT's Computer Science 6.851 course on Advanced Data Structures."
+  :description "Implementations of pointer machines as described in MIT's Computer Science 6.851 course on Advanced Data Structures."
   :author "Patrick Stein <pat@nklein.com>"
   :version "0.1.20161108"
   :license "UNLICENSE"
